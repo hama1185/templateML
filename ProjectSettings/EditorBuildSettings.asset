@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_ItorinML/SceneItorin/Shinji.unity
+    guid: b5ef59526ea6c49b8bee90fa8f9050b2
+  - enabled: 1
+    path: Assets/_Takami/Scenes/Miraikan_God.unity
+    guid: 62a07dca92e019646a2932bacb6d4387
+  - enabled: 0
+    path: Assets/MagicLeap/Examples/Scenes/ImageTracking.unity
+    guid: c4cc7b27d61667f419c09727a517e1a8
+  - enabled: 0
+    path: Assets/_ItorinML/SceneItorin/ImageEX.unity
+    guid: cfc3a336d064f4aa19c25e4b6ce0fd1e
+  - enabled: 0
+    path: Assets/_ItorinML/SceneItorin/Imatora429.unity
+    guid: 14427e8fed0fc45a1903210afc1b52b7
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2ba4dbd235ed941bb8fdb5a40ab00f22,
+      type: 2}
